@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+}
+
+.nav-bg {
+    background-image: linear-gradient(to right, cyan, green, #e4eee6);
+    color: #161515;
+}
+
+.bg-button {
+    background-color: rgb(37, 34, 34);
+    color: white;
+}
