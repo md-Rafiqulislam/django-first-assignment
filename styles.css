@@ -6,6 +6,7 @@
 }
 
 
+
 a {
     text-decoration: none;
 }
@@ -34,3 +35,27 @@ a {
 .custom-img {
     width: 300px;
 }
+
+
+
+
+@media only screen and (max-width: 576px) {
+    .explore-section {
+        margin-top: -16rem;
+    }
+
+    footer {
+        margin-top: -13rem;
+    }
+  }
+
+
+@media only screen and (min-width: 768px) {
+    .explore-section {
+        margin-top: 450px;
+    }
+
+    footer {
+        margin-top: 22rem;
+    }
+  }
